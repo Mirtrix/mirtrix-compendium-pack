@@ -14,6 +14,13 @@
   },
   "download": "https://github.com/Mirtrix/mirtrix-compendium-pack/archive/refs/heads/main.zip",
   "esmodules": ["scripts/init.js"],
+  "dependencies": [
+    {
+      "name": "lomeo-dnd5e-phantom",
+      "type": "module"
+    }
+  ],
+
   "packs": [
     {
       "label": "Spells [C2]",
