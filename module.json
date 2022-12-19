@@ -1,0 +1,15 @@
+{
+  "id": "mirtrix-compendium-pack",
+  "title": "Mirtrix Compendium Pack",
+  "description": "A various compendiums and translations for all-beloved software.",
+  "authors": [
+    {
+      "name": "mirtrix"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
