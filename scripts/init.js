@@ -1,7 +1,7 @@
 if (typeof Babele !== "undefined") {
   Babele.get().register({
-    module: "ru-ru",
+    module: "mirtrix-compendium-pack",
     lang: "ru",
-    dir: "compendium/world",
+    dir: "compendium",
   });
 }
