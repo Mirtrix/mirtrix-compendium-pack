@@ -11,5 +11,6 @@
   "compatibility": {
     "minimum": "10",
     "verified": "10"
-  }
+  },
+  "download": "https://github.com/Mirtrix/mirtrix-compendium-pack/archive/refs/heads/main.zip"
 }
