@@ -7,7 +7,7 @@
       "name": "mirtrix"
     }
   ],
-  "version": "1.0.12",
+  "version": "1.0.13",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
@@ -52,7 +52,7 @@
     {
       "label": "Предметы [C2]",
       "type": "Item",
-      "name": "c2-subclasses",
+      "name": "c2-items",
       "path": "/packs/c2-items.db",
       "system": "dnd5e",
       "private": true,
