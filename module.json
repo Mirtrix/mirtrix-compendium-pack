@@ -7,7 +7,7 @@
       "name": "mirtrix"
     }
   ],
-  "version": "1.0.13",
+  "version": "1.0.14",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
@@ -28,7 +28,7 @@
       "name": "c2-spells",
       "path": "/packs/c2-spells.db",
       "system": "dnd5e",
-      "private": true,
+      "private": false,
       "flags": {}
     },
     {
@@ -37,7 +37,7 @@
       "name": "c2-abilities",
       "path": "/packs/c2-abilities.db",
       "system": "dnd5e",
-      "private": true,
+      "private": false,
       "flags": {}
     },
     {
@@ -46,7 +46,7 @@
       "name": "c2-subclasses",
       "path": "/packs/c2-subclasses.db",
       "system": "dnd5e",
-      "private": true,
+      "private": false,
       "flags": {}
     },
     {
@@ -55,7 +55,7 @@
       "name": "c2-items",
       "path": "/packs/c2-items.db",
       "system": "dnd5e",
-      "private": true,
+      "private": false,
       "flags": {}
     }
   ]
